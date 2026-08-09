@@ -2,6 +2,9 @@
 
 A simple movie recommendation web app built with Streamlit that suggests similar movies and displays their posters using The Movie Database (TMDb). The app uses a precomputed similarity matrix and a movies dataset to find recommendations.
 
+<img width="2560" height="1600" alt="movierecommendationbyabdullah929 streamlit app_(Nest Hub Max)" src="https://github.com/user-attachments/assets/74efbd50-98b8-4df8-b61f-9a8b30835132" />
+
+
 ## Features
 - Select a movie from the dataset and get the top 5 similar movie recommendations.
 - Fetches and displays movie posters from TMDb.
